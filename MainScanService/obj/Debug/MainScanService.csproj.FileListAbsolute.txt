@@ -1,0 +1,8 @@
+C:\Users\Christiaan\documents\visual studio 2013\Projects\MainScanService\MainScanService\bin\Debug\MainScanService.exe.config
+C:\Users\Christiaan\documents\visual studio 2013\Projects\MainScanService\MainScanService\bin\Debug\MainScanService.exe
+C:\Users\Christiaan\documents\visual studio 2013\Projects\MainScanService\MainScanService\bin\Debug\MainScanService.pdb
+C:\Users\Christiaan\documents\visual studio 2013\Projects\MainScanService\MainScanService\obj\Debug\MainScanService.MainScanService.resources
+C:\Users\Christiaan\documents\visual studio 2013\Projects\MainScanService\MainScanService\obj\Debug\MainScanService.ProjectInstaller.resources
+C:\Users\Christiaan\documents\visual studio 2013\Projects\MainScanService\MainScanService\obj\Debug\MainScanService.csproj.GenerateResource.Cache
+C:\Users\Christiaan\documents\visual studio 2013\Projects\MainScanService\MainScanService\obj\Debug\MainScanService.exe
+C:\Users\Christiaan\documents\visual studio 2013\Projects\MainScanService\MainScanService\obj\Debug\MainScanService.pdb
