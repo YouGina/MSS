@@ -1,0 +1,8 @@
+C:\Users\Christiaan\documents\visual studio 2013\Projects\MainScanService\ScanServiceServer\bin\Debug\ScanServiceServer.exe.config
+C:\Users\Christiaan\documents\visual studio 2013\Projects\MainScanService\ScanServiceServer\bin\Debug\ScanServiceServer.exe
+C:\Users\Christiaan\documents\visual studio 2013\Projects\MainScanService\ScanServiceServer\bin\Debug\ScanServiceServer.pdb
+C:\Users\Christiaan\documents\visual studio 2013\Projects\MainScanService\ScanServiceServer\obj\Debug\ScanServiceServer.ProjectInstaller.resources
+C:\Users\Christiaan\documents\visual studio 2013\Projects\MainScanService\ScanServiceServer\obj\Debug\ScanServiceServer.ScanServiceServer.resources
+C:\Users\Christiaan\documents\visual studio 2013\Projects\MainScanService\ScanServiceServer\obj\Debug\ScanServiceServer.csproj.GenerateResource.Cache
+C:\Users\Christiaan\documents\visual studio 2013\Projects\MainScanService\ScanServiceServer\obj\Debug\ScanServiceServer.exe
+C:\Users\Christiaan\documents\visual studio 2013\Projects\MainScanService\ScanServiceServer\obj\Debug\ScanServiceServer.pdb
